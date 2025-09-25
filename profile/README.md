@@ -19,7 +19,7 @@ The club was created in  by
 ## 🧙 Credits
 
 **Sponser Teachers:**
-- 2020-2025: Danny Tsang
+- 2020-2025: Mr Danny Tsang
 - 2025-2026: Ms Anderson
 
 **Club Presidents:**
