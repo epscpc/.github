@@ -18,7 +18,13 @@ The club was created in  by
 
 ## 🧙 Credits
 
+**Sponser Teachers:**
+- 2018-2025: Danny Tsang
+- 2025-2026: Ms Anderson
+
+**Club Presidents:**
 - 2024/25 Presidents: John Li, Oliver Guo
+- 2025/26 Presidents: John Li, Oliver Guo
 
 <!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
