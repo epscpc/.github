@@ -4,8 +4,21 @@
 
 Hi there! Elgin Park Secondary Computer Programming Club (EPSCP Club) is based in Elgin Park Secondary School, Surrey, BC, Canada.
 
-🌈 Contribution guidelines - how can the community get involved?
+Club activities include web design, game design, personal projects, competitive programming, etc.
 
+The club was created in  by
+
+## 🌈 For New Members
+
+- Make sure you joined our teams group.
+
+- Discord server: https://discord.gg/DuEcXW2EJY.
+
+- Follow our Instagram: epscomputerprogramming.
+
+- Email: epscomputerclub@gmail.com.
+
+<!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 🍿 Fun facts - what does your team eat for breakfast?
