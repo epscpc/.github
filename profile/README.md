@@ -16,6 +16,10 @@ The club was created in  by
 
 - Follow our Instagram: epscomputerprogramming
 
+## 🧙 Credits
+
+- 2024/25 Presidents: John Li, Oliver Guo
+
 <!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
