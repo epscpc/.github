@@ -12,11 +12,11 @@ The club was created in  by
 
 - Make sure you joined our teams group.
 
-- Discord server: https://discord.gg/DuEcXW2EJY.
+- Discord server: https://discord.gg/DuEcXW2EJY
 
-- Follow our Instagram: epscomputerprogramming.
+- Follow our Instagram: epscomputerprogramming
 
-- Email: epscomputerclub@gmail.com.
+- Email: epscomputerclub@gmail.com
 
 <!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
