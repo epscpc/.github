@@ -6,7 +6,7 @@ Hi there! Elgin Park Secondary Computer Programming Club (EPSCP Club) is based i
 
 Club activities include web design, game design, personal projects, competitive programming, etc.
 
-The club was created in  by
+The club was created in 2020 by Matthew Molski
 
 ## 🌈 For New Members
 
