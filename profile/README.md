@@ -18,17 +18,13 @@ The club was created in 2020 by Matthew Molski
 
 ## 🧙 Credits
 
-**Sponser Teachers:**
+**Sponser Teacher:**
 - 2020-2025: Mr Danny Tsang
-- 2025-2026: Ms Anderson
+- 2025-2026: Ms Anderson, Mr Ingram
 
-**Club Presidents:**
-- 2020/21 President: Matthew Molski
-- 2021/22 President: Matthew Molski
-- 2022/23 President: Matthew Molski
-- 2023/24 President: Henry Zhao
-- 2024/25 President: John Li, Oliver Guo
-- 2025/26 President: John Li, Oliver Guo
+**Current Leaders:**
+- John Li, president
+- Oliver Guo, vp
 
 <!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
